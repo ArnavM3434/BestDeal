@@ -1,0 +1,1 @@
+Creating a website where the user enters a product they want, as vague as "red car" or as specific as "hamilton bleach blender" and my program scrapes the web to find the cheapest and most relevant products, will use some NLP model to determine if products match user request.
